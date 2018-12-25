@@ -1,2 +1,2 @@
 # js
-thanks machinist.
+thanks daniel.
