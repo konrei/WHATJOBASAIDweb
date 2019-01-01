@@ -1,9 +1,3 @@
-console.log("sup")
-
 var Twit = require('twit'); //@import
-var T = new Twit({
-  consumer_key:         '...',
-  consumer_secret:      '...',
-  access_token:         '...',
-  access_token_secret:  '...',  
-})
+var Config = require('./config');
+var T = new Twit(Config);
