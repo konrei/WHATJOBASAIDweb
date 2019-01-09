@@ -4,7 +4,7 @@
   "description": "ugh, im demo",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
+    "start": "node joba.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,11 +12,10 @@
     "url": "git+https://github.com/wheldrak3/js.git"
   },
   "keywords": [
-    "demo",
-    "bot",
+    "joba",
+    "twitter",
     "twit",
-    "sputnik",
-    "seysudoraninbulmamisagladigiturkresimatanbot"
+    "black mirror sucks"
   ],
   "author": "cildir",
   "license": "ISC",
