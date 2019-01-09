@@ -1,15 +1,15 @@
 {
-  "name": "npm_demo",
+  "name": "whatjobasaid",
   "version": "1.0.0",
-  "description": "ugh, im demo",
-  "main": "bot.js",
+  "description": "ugh, im a bot",
+  "main": "joba.js",
   "scripts": {
     "start": "node joba.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wheldrak3/js.git"
+    "url": "git+https://github.com/wheldrak3/whatjobasaid.git"
   },
   "keywords": [
     "joba",
@@ -20,9 +20,9 @@
   "author": "cildir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wheldrak3/js/issues"
+    "url": "https://github.com/wheldrak3/whatjobasaid/issues"
   },
-  "homepage": "https://github.com/wheldrak3/js#readme",
+  "homepage": "https://github.com/wheldrak3/whatjobasaid#readme",
   "dependencies": {
     "twit": "^2.2.11"
   }
