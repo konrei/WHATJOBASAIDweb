@@ -1,14 +1,14 @@
 {
   "name": "whatjobasaid",
-  "version": "1.0.0",
-  "description": "ugh, im a bot",
+  "version": "1.0.1",
+  "description": "love it",
   "main": "joba.js",
   "scripts": {
     "start": "node ./src/joba.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wheldrak3/whatjobasaid.git"
+    "url": "git+https://github.com/cronus00101110/WHATJOBASAIDweb.git"
   },
   "keywords": [
     "joba",
@@ -18,9 +18,9 @@
   "author": "cildir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wheldrak3/whatjobasaid/issues"
+    "url": "https://github.com/cronus00101110/WHATJOBASAIDweb/issues"
   },
-  "homepage": "https://github.com/wheldrak3/whatjobasaid#readme",
+  "homepage": "https://github.com/cronus00101110/WHATJOBASAIDweb#readme",
   "dependencies": {
     "twit": "^2.2.11"
   }
