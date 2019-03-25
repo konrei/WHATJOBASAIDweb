@@ -4,8 +4,7 @@
   "description": "ugh, im a bot",
   "main": "joba.js",
   "scripts": {
-    "start": "node ./src/joba.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/joba.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +13,6 @@
   "keywords": [
     "joba",
     "twitter",
-    "twit",
     "black mirror sucks"
   ],
   "author": "cildir",
