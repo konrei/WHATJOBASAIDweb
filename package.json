@@ -1,7 +1,7 @@
 {
   "name": "whatjobasaid",
   "version": "1.0.1",
-  "description": "love it",
+  "description": "love him",
   "main": "joba.js",
   "scripts": {
     "start": "node ./src/joba.js"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/cronus00101110/WHATJOBASAIDweb#readme",
   "dependencies": {
+    "mongodb": "^3.2.3",
     "twit": "^2.2.11"
   }
 }

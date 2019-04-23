@@ -6,7 +6,8 @@ var params = { user_id: '1110315240', count: 10 }; // screen_name: 'JOBAISREAL' 
 
 function gotData(err, data, response) {
   for (var i = 0; i < data.length; i++) {
-  	console.log(data[i].text);
+    console.log(data[i].text);
+    //document.getElementsByClassName("tweet").innerHTML = data[i].text;
   }
 };
 
