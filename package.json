@@ -4,7 +4,7 @@
   "description": "love him",
   "main": "joba.js",
   "scripts": {
-    "start": "node ./src/joba.js"
+    "start": "serve"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/cronus00101110/WHATJOBASAIDweb#readme",
   "dependencies": {
     "mongodb": "^3.2.3",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "serve": "^11.0.0"
   }
 }
