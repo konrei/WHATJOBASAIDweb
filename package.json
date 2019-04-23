@@ -4,7 +4,7 @@
   "description": "love him",
   "main": "joba.js",
   "scripts": {
-    "start": "serve"
+    "start": "serve ./docs"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "twitter",
     "black mirror sucks"
   ],
-  "author": "cildir",
+  "author": "some@",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cronus00101110/WHATJOBASAIDweb/issues"
