@@ -11,6 +11,7 @@ function gotData(err, data, response) {
   /*for (var i = 0; i < data.length; i++) {
     console.log(data[i].text);
   }*/
+  console.log(data[0].text);
   document.querySelector(".tweet").innerHTML = data[0].text;
 };
 
