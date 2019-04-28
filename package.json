@@ -2,10 +2,10 @@
   "name": "whatjobasaid",
   "version": "1.0.3",
   "description": "love him",
-  "main": "src/joba.js",
+  "main": "./src/joba.js",
   "scripts": {
     "start": "serve ./docs",
-    "joba": "src/joba.js"
+    "joba": "./src/joba.js"
   },
   "repository": {
     "type": "git",
