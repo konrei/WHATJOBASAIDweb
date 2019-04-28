@@ -8,10 +8,10 @@ var params = {
 }; // screen_name: 'JOBAISREAL' works too, but id is a constant value, name is not.
 
 function gotData(err, data, response) {
-  for (var i = 0; i < data.length; i++) {
+  /*for (var i = 0; i < data.length; i++) {
     console.log(data[i].text);
-    //document.getElementsByClassName("tweet").innerHTML = data[i].text;
-  }
+  }*/
+  document.querySelector(".tweet").innerHTML = data[0].text;
 };
 
 T.get('statuses/user_timeline', params, gotData);
