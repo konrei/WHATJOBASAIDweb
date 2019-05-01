@@ -1,5 +1,5 @@
-var Twit = require('twit'); //@import
-var Config = require('./config'); //this one too
+import Twit from 'twit'; //@import
+import Config from './config'; //this one too
 var T = new Twit(Config); //tokens and keys
 
 var params = { q: '#DeathTo', count: 10 }; // q is keyword, count is count u dumbass

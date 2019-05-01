@@ -24,6 +24,8 @@
   "homepage": "https://github.com/cronus00101110/WHATJOBASAIDweb#readme",
   "dependencies": {
     "animejs": "^3.0.1",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
     "mongodb": "^3.2.3",
     "serve": "^11.0.0",
     "twit": "^2.2.11"

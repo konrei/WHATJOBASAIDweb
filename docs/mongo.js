@@ -1,4 +1,4 @@
-const MongoClient = require('mongodb').MongoClient;
+import { MongoClient } from 'mongodb';
 const uri = "mongodb+srv://Samet:58200038@cluster0-dc8zl.mongodb.net/test?retryWrites=true";
 const client = new MongoClient(uri, { useNewUrlParser: true });
 client.connect(err => {
